@@ -13,4 +13,3 @@ Types a configured phrase on a hotkey with a set interval.
 - Start/Stop: **Ctrl+Alt+T**
 - Emergency stop: **Esc**
 
-> Tip: Edit the script to change the phrase and interval.
